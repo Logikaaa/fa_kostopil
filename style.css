@@ -1,0 +1,34 @@
+header{
+    height: 60px;
+    padding-top: 30px;
+   }
+
+body{
+    background-color: aliceblue;
+    font-family:cursive;
+
+}
+
+header{
+    background-color:grey;
+}
+
+nav a{
+    color:rgb(211, 47, 83);
+    background-color:yellow;
+    border-radius: 15px;
+    font-size:30px ;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    text-align:center;
+}
+
+h2,h1{
+    text-align:center;
+}
+
+main{
+    background-color:#f5e077;
+    text-align:center;
+}
